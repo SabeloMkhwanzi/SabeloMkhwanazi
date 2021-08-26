@@ -1,6 +1,7 @@
 ### Hi there, I'm Sabelo 👋
 
- <img align="right" alt="GIF" src="https://github.com/sabelomkhwanazi/sabelomkhwanazi/blob/main/code.gif?raw=true" width="500" height="320" />
+  
+ <img align="right" alt="GIF" src="https://github.com/sabelomkhwanazi/main/Developer.gif?raw=true" width="500" height="320" />
 
 ### I'm a Husband, Father, Software Developer, Who enjoys learning new skills
 - 🔭 I’m currently working on Blockchain on the Ethereum
