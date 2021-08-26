@@ -1,10 +1,11 @@
-### Hi there, I'm Sabelo 👋
+# Hello, I'm Sabelo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-  
- <img align="right" alt="GIF" src="https://github.com/sabelomkhwanazi/main/Developer.gif?raw=true" width="500" height="320" />
+
+ <img align="right" alt="GIF" src="https://github.com/SabeloMkhwanzi/SabeloMkhwanzi/blob/main/Developer.gif?raw=true" width="500" height="320" />
+
 
 ### I'm a Husband, Father, Software Developer, Who enjoys learning new skills
-- 🔭 I’m currently working on Blockchain on the Ethereum
+- 🔭 I’m currently working on upgrading my skills on Ethereum Blockchain 
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on open source project
 - 💬 Ask me about Anything
