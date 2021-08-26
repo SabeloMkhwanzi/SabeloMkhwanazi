@@ -4,7 +4,7 @@
  <img align="right" alt="GIF" src="https://github.com/SabeloMkhwanzi/SabeloMkhwanzi/blob/main/Developer.gif?raw=true" width="500" height="320" />
 
 
-### I'm a Husband, Father, Software Developer, Who enjoys learning new skills
+### I'm a Husband, Father, Software/Blockchain Developer, Who enjoys learning new skills
 - 🔭 I’m currently working on upgrading my skills on Ethereum Blockchain 
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on open source project
