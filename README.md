@@ -5,7 +5,7 @@
 
 
 ### I'm a Husband, Father, Software/Blockchain Developer, Who enjoys learning new skills
-- 🔭 I’m currently working on upgrading my skills on Ethereum Blockchain 
+- 🔭 I’m currently working on upgrading my skills on Blockchain ecosystem 
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on open source project
 - 💬 Ask me about Anything
