@@ -4,11 +4,8 @@
 <!-- <img align="right" alt="GIF" src="https://github.com/SabeloMkhwanazi/SabeloMkhwanzi/blob/main/Developer.gif?raw=true" width="500" height="320" /> -->
 
 
-### A Husband, Father, Software/Blockchain Developer, Who enjoys learning new skills
+### A Software/Blockchain Developer, Who enjoys learning new skills
 - 🔭 I’m currently working on upgrading my skills on Blockchain ecosystem 
-- 🌱 I’m currently learning Typescript
-- 👯 I’m looking to collaborate on open source project
-- 💬 Ask me about Anything
 
 ### Talk with me, I will be glad hear from you:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sabelo-mkhwanazi-54ba431b1//)
