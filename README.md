@@ -1,7 +1,36 @@
+<!--[![Header](https://github.com/AntonioErdeljac/AntonioErdeljac/blob/master/banner.png?raw=true "Header")](https://github.com/AntonioErdeljac) -->
+
+## 👋 Hello!
+
+Software & blockchain developer who enjoys building amazing applications with code. Familiar with both remote, and in-office roles. Always seeking to take ownership of the project with a proven track
+record of delivering high-quality software solutions
+
+<!--  ## 📚 Writing
+
+Besides developing, I also like sharing the Gospel of Jesus [Youtube Channel](https://www.youtube.com/channel/?????). -->
+
+## 🛠️ Technologies & Tools
+
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational)
+![](https://img.shields.io/badge/Tool-Solidity-informational?style=flat&color=warning&logo=solidity)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
+![](https://img.shields.io/badge/Code-Next-informational?style=flat&color=informational&logo=next.js)
+![](https://img.shields.io/badge/Code-EcmaScript-informational?style=flat&color=informational)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
+![](https://img.shields.io/badge/Tool-Git-informational?style=flat&color=warning&logo=git)
+
+
+## 📊 Statistics
+
+[![Sabelo's github stats](https://github-readme-stats.vercel.app/api?username=SabeloMkhwanzi&theme=dark&count_private=true)](https://github.com/sabelomkhwanazi/github-readme-stats)
+
+
+<!-- 
 # Hello, I'm Sabelo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-<!-- <img align="right" alt="GIF" src="https://github.com/SabeloMkhwanazi/SabeloMkhwanzi/blob/main/Developer.gif?raw=true" width="500" height="320" /> -->
+<img align="right" alt="GIF" src="https://github.com/SabeloMkhwanazi/SabeloMkhwanzi/blob/main/Developer.gif?raw=true" width="500" height="320" /> 
 
 
 ### A Software/Blockchain Developer, Who enjoys learning new skills
@@ -37,4 +66,4 @@
 <img align="left" alt="Sabelo's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabeloMkhwanzi" />
 
 </details>
-
+-->
